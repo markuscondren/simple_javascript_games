@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+#heading-main{
+    color:cadetblue;
+}
+
+
+#grid {
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#grid > img {
+    height: 100px;
+    width: 100px;
+}
